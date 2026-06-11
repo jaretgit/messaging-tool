@@ -27,7 +27,7 @@ Q9 (provincial law over federal): Creates legal chaos when laws conflict on pipe
 Q10 (separation referendum): Alberta should stay in Canada. Separation means a decade of legal battles and economic disruption that costs every Albertan.
 
 HOW TO RESPOND:
-Keep it to one paragraph, 3-5 sentences max. No headers, bullets, or lists. Lead with the ready-to-use language. Sound like a neighbour who's done their homework, not a lecturer.`;
+Keep it to one paragraph, 3-5 sentences max. No headers, bullets, or lists. No em dashes. Lead with the ready-to-use language. Sound like a neighbour who's done their homework, not a lecturer.`;
 
 const MAX_HISTORY_MESSAGES = 4;
 
