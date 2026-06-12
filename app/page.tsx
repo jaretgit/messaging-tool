@@ -15,6 +15,7 @@ const QUICK_PROMPTS = [
   "Someone says 'Alberta should control its own borders' — what do I say?",
   'How should I talk about the constitutional questions?',
   "What if someone says they just want 'proof of citizenship' to vote?",
+  "What do I say to folks that 'just want to send a message to Ottawa'?",
   'Give me the bottom line on all 10 questions.',
 ];
 
